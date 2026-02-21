@@ -1,0 +1,7 @@
+ptS3%#fWajQMZ9+
+
+
+
+
+NEXT_PUBLIC_SUPABASE_URL=https://wrxtriokajpyigoimcxe.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY=sb_publishable_vO-J_pugmS6eHPjkk7Tfkg_O3dzbXCW
